@@ -1,0 +1,236 @@
+@font-face {
+    font-family: myFirstsFont;
+    src: url(AnimeAce2.0BBItalic);
+}
+@font-face {
+    font-family: secondFont;
+    src: url(DKFrozenMemory);
+}
+header {
+    position: absolute;
+    width: 100%;
+    padding-bottom: 100px;
+}
+header {
+    /* background: #000; */
+    padding: 30px 0;
+}
+.discord-icon {
+    background: #fff;
+    padding: 4px 6px;
+    border-radius: 120px;
+}
+.twitter-icon {
+    background: #fff;
+    padding: 4px 6px;
+    border-radius: 120px;
+}
+.discord-icon {
+    margin-right: 20px;
+}
+ul.list-item.d-flex {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul.list-item.d-flex>li>a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #8e4e09;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ul.list-item.d-flex {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul.list-item.d-flex {
+    justify-content: space-around;
+}
+a.connect-btn {
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #db7c00;
+    padding: 13px 30px;
+    border-radius: 26px;
+    color: #fff;
+    font-size: 18px;
+}
+.twitter-icon {
+    background: #fff;
+    padding: 4px 8px;
+    border-radius: 15px;
+}
+
+/* body{
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+background-size: cover;
+} */
+
+h1.banner-hd.text-center {
+    text-transform: uppercase;
+    color: #8e4e09;
+}
+h1.banner-hd.text-center {
+    text-transform: uppercase;
+    color: #8e4e09;
+    font-size: 54px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 60px;
+    text-shadow: 3px 2px 2px white;
+    text-transform: capitalize;
+}
+h2.banner-subhd.text-center {
+    margin-bottom: 64px;
+    color: #b73b15;
+    text-shadow: 3px 2px 2px white;
+    font-size: 52px;
+    text-transform: capitalize;
+}
+.banner-content {
+    background: #fed9a3;
+}
+p.banner-para {
+
+    color: #8e4e09;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    /* width: 80%; */
+    font-size: 21px;
+    /* margin: 0 !important; */
+    margin-bottom: 0;
+}
+.banner-content {
+    background: #fed9a3;
+    width: 90%;
+    border-radius: 7px;
+    padding: 14px 0;
+}
+.banner-img>img {
+    width: 100%;
+}
+h2.banner-subhd.text-center {
+    margin-bottom: 64px;
+}
+
+.banner {
+    padding: 120px 0 80px 0;
+}
+h2.card-hd.text-center {
+    padding: 58px 0 10px 0px;
+    text-transform: uppercase;
+    color: #8e4e09;
+    font-size: 54px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #8e4e09;
+    font-size: 60px;
+    text-shadow: 3px 2px 2px white;
+    text-transform: capitalize;
+}
+h3.card-subhd.text-center {
+    color: #b73b15;
+    text-transform: uppercase;
+    font-size: 43px;
+    font-weight: bold;
+    margin-bottom: 64px;
+    color: #b73b15;
+    text-shadow: 3px 2px 2px white;
+    font-size: 52px;
+    text-transform: capitalize;
+}
+.card-img>img {
+    width: 100%;
+}
+.card-content {
+    background: #fed9a3;
+    width: 90%;
+    border-radius: 7px;
+    padding: 14px 0;
+}
+.card-content {
+    background: #fed9a3;
+    width: 100%;
+    border-radius: 7px;
+    padding: 14px 0;
+}
+p.card-para.text-center {
+    color: #8e4e09;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 21px;
+}
+section#card-display {
+    padding-bottom: 45px;
+}
+.background-content {
+    background: #fed9a3;
+    width: 88%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 7px;
+    padding: 15px 0;
+}
+p.background-para {
+    text-align: center;
+    text-transform: uppercase;
+    color: #8e4e09;
+    font-weight: 500;
+    font-size: 23px;
+    /* margin: 0 auto; */
+}
+.back-img>img {
+    width: 100%;
+}
+.back-img {
+    margin-top: 36px;
+}
+i.fab.fa-discord {
+    color: #f4b183;
+}
+i.fab.fa-twitter {
+    color: #f4b183;
+}
+ul.list-item.d-flex>li>a {
+  
+    color: #8e4e09;
+    font-size: 22px;
+    font-weight: bold;
+}
+a.connect-btn {
+    font-style: italic;
+    font-weight: bold;
+}
+p.banner-para {
+    
+    font-size: 19px;
+  
+}
+p.card-para.text-center {
+  
+    font-size: 19px;
+}
+p.background-para {
+
+    font-weight: 600;
+    font-size: 19px;
+    /* margin: 0 auto; */
+}
+
+
+.background-content {
+    background-color: #feecb191;
+    /* background: #fed9a3; */
+    width: 88%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 7px;
+    padding: 15px 0;
+}
